@@ -3,8 +3,8 @@ mpps
 
 #Multipurpos SMS Server
 
-
-'# Multipurpose Party Server, Version 01
+```
+# Multipurpose Party Server, Version 01
 # global variables
 # Message of the day
 # Places of the day
@@ -32,4 +32,5 @@ mpps
         # stopping MPPS by admin SMS
         # reset message of the day
         # send help message
-        # set new message'
+        # set new message
+```
