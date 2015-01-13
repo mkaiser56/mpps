@@ -1,8 +1,8 @@
 mpps
 ====
 
-#Multipurpos SMS Server
-
+Multipurpos SMS Server
+----------------------
 ```
 # Multipurpose Party Server, Version 01
 # global variables
