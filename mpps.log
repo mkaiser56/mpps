@@ -1,0 +1,26 @@
+Fri Jan  4 05:30:27 1980 incoming <<< +41797579763: Abc
+Fri Jan  4 05:30:27 1980 outgoing >>> +41797579763: Heute abend: Alpenblick
+Wed Oct 20 09:48:12 2004 incoming <<< +41797579763: Debaku
+Wed Oct 20 09:48:12 2004 outgoing >>> +41797579763: Heute abend: Cargo Bar
+Wed Oct 20 11:51:47 2004 incoming <<< +41797579763: Abc
+Wed Oct 20 11:51:47 2004 outgoing >>> +41797579763: Heute abend: Capri Bar
+Wed Oct 20 11:58:24 2004 incoming <<< +41797579763: ADMIN:mpps Heute bei Agnes
+Wed Oct 20 11:58:24 2004 adminmessage +41797579763: Heute bei Agnes
+Wed Oct 20 11:58:24 2004 outgoing >>> +41797579763: Heute bei Agnes
+Wed Oct 20 12:00:01 2004 incoming <<< +41795988422: 
+Wed Oct 20 12:00:01 2004 outgoing >>> +41795988422: Heute bei Agnes
+Wed Oct 20 12:02:43 2004 incoming <<< +41797579763: ADMIN:mpps HELP
+Wed Oct 20 12:02:43 2004 adminmessage +41797579763: HELP
+Wed Oct 20 12:02:43 2004 outgoing >>> +41797579763: ADMIN:<passwd> STOP ->stops service, RESET ->sets message to default, HELP ->sends SMS help file
+Wed Oct 20 12:05:38 2004 incoming <<< +41797579763: ADMIN:mpps STOP
+Wed Oct 20 12:05:38 2004 adminmessage +41797579763: STOP
+Thu Oct 21 12:37:05 2004 incoming <<< +41797579763: Test
+Thu Oct 21 12:37:05 2004 outgoing >>> +41797579763: Heute abend: Hirscheneck
+Thu Oct 21 20:57:09 2004 incoming <<< +41797579763: Wo
+Thu Oct 21 20:57:09 2004 outgoing >>> +41797579763: Heute abend: Hirscheneck
+Fri Oct 22 00:40:18 2004 incoming <<< +41795988422: 
+Fri Oct 22 00:40:18 2004 outgoing >>> +41795988422: Heute abend: Hirscheneck
+Sun Oct 24 17:24:56 2004 incoming <<< +41797579763: Wo
+Sun Oct 24 17:24:56 2004 outgoing >>> +41797579763: Heute abend: NT Areal
+Fri Jan  4 00:39:36 1980 incoming <<< +41797579763: NM
+Fri Jan  4 00:39:36 1980 outgoing >>> +41797579763: Heute abend: Cargo Bar
